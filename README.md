@@ -13,7 +13,7 @@ Requirements
 
 Clone this repository to your local machine to get started.
 ```bash
-git clone [repository-url]
+git clone https://github.com/gnubyte/grafana_loki
 ```
 
 2. Set Up Ansible
